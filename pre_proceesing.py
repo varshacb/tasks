@@ -1,0 +1,2 @@
+review = "Don't buy this vehicle unless you have a near by tvs iqube service center. You will not get service in any other tvs service centers and there is not many service centers over the country. And you will lose your warranty benefits for any delay in servicing the vehicle.
+Once you braked the vehicle in a traffic signal, there is delay in releasing the break and moving the bike."
